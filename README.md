@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gone-like-georgia-rain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Gone Like Georgia Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gone-like-georgia-rain/) |
+| **Get License** | [License this song: Gone Like Georgia Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gone-like-georgia-rain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `026e629141ad8c391601342270500799f4b4757f60aadd2929ae871bea50f61d` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

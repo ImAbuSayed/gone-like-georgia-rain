@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gone Like Georgia Rain
+
+This log tracks the cryptographic history and versioning for the song **Gone Like Georgia Rain** (gone-like-georgia-rain).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-24T05:24:10.198926 | `v1` | `026e629141ad8c391601342270500799f4b4757f60aadd2929ae871bea50f61d` | `5f3b4d31a130fe4ccc90daf124aa6bc0abc591bb9e51c7a20ed94c41b8e99f93` | `2026-05-24_gone-like-georgia-rain-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
